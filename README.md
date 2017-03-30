@@ -22,6 +22,8 @@ Udemy
   
     Excel for Accountants: Mapping Tables - by Jeff Lenning - 9 Lectures
   
+    
+    
     JavaScript Essentials - by Lawrence Turton - 34 Lectures 
 
 
@@ -45,11 +47,13 @@ Book
     JavaScript: The Good Parts - by Douglas Crawford (in progress)
     
 
+
 Podcasts
 
     StartHere: Web Development by Dain Miller 
     
   
+
 JavaScript Challenge Sites
 
     Edabit.com - 55 XP points 
